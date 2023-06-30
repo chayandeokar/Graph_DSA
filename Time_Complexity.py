@@ -54,7 +54,7 @@ def printUnorderedPairs(arrayA, arrayB):
 
 # printUnorderedPairss(arrayA,arrayB)
 
-Answer --> Total time complexity -->  O(n * m * 100,000)
+Answer --> Total time complexity -->  O(n * m )
 
 
 #Question6
@@ -68,7 +68,7 @@ def reverse(array):
 
 reverse(arrayA)
 
-Answer --> Total time complexity --> O(n) or O(n/2)
+Answer --> Total time complexity --> O(n) 
 
 
 #Question7
@@ -82,7 +82,7 @@ def factorial(n):
 
 print(factorial(3))
 
-Answer --> Total time complexity --> 
+Answer --> Total time complexity --> 0(n)
 
 #Question8
 def allFib(n):
@@ -98,7 +98,7 @@ def fib(n):
 
 allFib(4)
 
-Answer --> Total time complexity --> 
+Answer --> Total time complexity --> 0(2^n)
 
 
 #Question10
@@ -119,4 +119,4 @@ def powersOf2(n):
 
 powersOf2(50)
 
-Answer --> Total time complexity --> 
+Answer --> Total time complexity --> O(log n) 
