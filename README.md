@@ -8,7 +8,7 @@
 
 # A circular linked list contains 0 NULL pointers. 
 
-
+# The pop() function removes the last element or the element based on the index given. remove() function removes the first occurrence of the specified element. 
 ## https://drive.google.com/drive/folders/1gVzlnxk9zqLaBVWNMnqT6E_ST3fORc45?usp=drive_link 
 
 
